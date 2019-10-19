@@ -88,6 +88,9 @@ address {
 	font-family: 'Titillium Web', sans-serif;
 	font-style: normal;
 }
+iframe {
+	border-radius: 10px;
+}
 
 
 
