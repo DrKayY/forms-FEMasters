@@ -67,13 +67,15 @@ input:not([type="radio"]):not([type="checkbox"]), textarea, select{
 button {
 	width: 20%;
 	border-radius: 10px;
-	border: none;
+	border: 0.1rem solid #7895B5;
 	background-color: #D9DBF0;
 	padding: 0.5rem;
 }
 button:hover {
-	background-color: #916F53;
-	color: #D9DBF0;
+	/*background-color: #916F53;*/
+	color: #916F53;
+	border: 0.1rem solid #916F53;
+
 }
 select {
 	font-size: 0.9rem;
